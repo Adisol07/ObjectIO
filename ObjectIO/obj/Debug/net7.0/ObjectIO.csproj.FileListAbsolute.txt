@@ -1,0 +1,12 @@
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/bin/Debug/net7.0/ObjectIO.deps.json
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/bin/Debug/net7.0/ObjectIO.dll
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/bin/Debug/net7.0/ObjectIO.pdb
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/obj/Debug/net7.0/ObjectIO.csproj.AssemblyReference.cache
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/obj/Debug/net7.0/ObjectIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/obj/Debug/net7.0/ObjectIO.AssemblyInfoInputs.cache
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/obj/Debug/net7.0/ObjectIO.AssemblyInfo.cs
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/obj/Debug/net7.0/ObjectIO.csproj.CoreCompileInputs.cache
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/obj/Debug/net7.0/ObjectIO.dll
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/obj/Debug/net7.0/refint/ObjectIO.dll
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/obj/Debug/net7.0/ObjectIO.pdb
+/Users/adambestajovsky/Projects/ObjectIO/ObjectIO/obj/Debug/net7.0/ref/ObjectIO.dll
