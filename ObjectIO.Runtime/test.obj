@@ -1,0 +1,4 @@
+MAKE var
+SET $var 10
+SET $var $var + 10
+PRINT $var
